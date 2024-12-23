@@ -127,11 +127,11 @@ background-position: center, left bottom;
     margin-top: 10px;
 }
 .reviews {
+    padding: 24px 0px 115px;
     text-align: center;
-    padding: 199px 0;
     background-image: url(./img/fonzwei.png), url(./img/cveti.png);
-    background-repeat: no-repeat;
-background-position: center;
+    background-repeat: no-repeat, no-repeat;
+background-position: center,  bottom ;
 }
 .reviews-container {
     display: flex;
